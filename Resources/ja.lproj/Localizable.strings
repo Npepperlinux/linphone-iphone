@@ -149,13 +149,13 @@
 "Cannot make call" = "発信ができませんでした";
 
 /* No comment provided by engineer. */
-"Cannot purchase anything yet, please try again later." = "Cannot purchase anything yet, please try again later.";
+"Cannot purchase anything yet, please try again later." = "まだ購入できません。後で再試行してください。";
 
 /* No comment provided by engineer. */
-"Cannot reach the server: either it is an invalid address or it may be temporary down." = "Cannot reach the server: either it is an invalid address or it may be temporary down.";
+"Cannot reach the server: either it is an invalid address or it may be temporary down." = "サーバーにアクセスできません: 無効なアドレスか一時的にダウンしている可能性があります。";
 
 /* No comment provided by engineer. */
-"Cannot retrieve your configuration. Please check credentials or try again later" = "Cannot retrieve your configuration. Please check credentials or try again later";
+"Cannot retrieve your configuration. Please check credentials or try again later" = "設定を取得することができません。認証情報を確認するか、後で再試行してください。";
 
 /* No comment provided by engineer. */
 "Cannot send email" = "メールを送信出来ません";
@@ -392,7 +392,7 @@
 "Info" = "情報";
 
 /* No comment provided by engineer. */
-"Instant messages are end-to-end encrypted in secured conversations. It is possible to upgrade the security level of a conversation by authenticating participants. To do so, call the contact and follow the authentification process." = "Instant messages are end-to-end encrypted in secured conversations. It is possible to upgrade the security level of a conversation by authenticating participants. To do so, call the contact and follow the authentification process.";
+"Instant messages are end-to-end encrypted in secured conversations. It is possible to upgrade the security level of a conversation by authenticating participants. To do so, call the contact and follow the authentification process." = "インスタントメッセージは、安全な会話でエンドツーエンドで暗号化されます。参加者を認証することで、会話のセキュリティレベルをアップグレードすることが可能です。これを行うには、連絡先に電話をかけ、認証プロセスに従ってください。";
 
 /* No comment provided by engineer. */
 "Invalid proxy address" = "無効なプロキシアドレス";
@@ -434,7 +434,7 @@
 "LIME identity key changed for %@" = "LIME認証キーが %@ 用に変更されました";
 
 /* No comment provided by engineer. */
-"LIME requires ZRTP encryption.\nBy activating LIME you automatically activate ZRTP media encryption." = "LIME requires ZRTP encryption.\nBy activating LIME you automatically activate ZRTP media encryption.";
+"LIME requires ZRTP encryption.\nBy activating LIME you automatically activate ZRTP media encryption." = "LIMEはZRTPの暗号化を要求します。\nLIMEを有効にすることで、自動的にZRTPのメディア暗号化が有効になります。";
 
 /* No comment provided by engineer. */
 "LIME warning" = "LIMEの警告";
@@ -548,16 +548,16 @@
 "Not connected" = "接続されていません";
 
 /* No comment provided by engineer. */
-"Nothing could be collected from your application, aborting now." = "Nothing could be collected from your application, aborting now.";
+"Nothing could be collected from your application, aborting now." = "アプリケーションから何も収集できませんでした。今すぐ中止してください。";
 
 /* InAppSettingsKit */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Operation could not be executed by server or remote client because it didn't have any context for it" = "Operation could not be executed by server or remote client because it didn't have any context for it";
+"Operation could not be executed by server or remote client because it didn't have any context for it" = "サーバーまたはリモートクライアントがコンテキストを持たないため、操作を実行できませんでした";
 
 /* No comment provided by engineer. */
-"Operation is unauthorized because missing credential" = "Operation is unauthorized because missing credential";
+"Operation is unauthorized because missing credential" = "証明書がないため、操作が許可されていません";
 
 /* No comment provided by engineer. */
 "Outdated Version" = "旧バージョン";
@@ -581,10 +581,10 @@
 "Photo's permission" = "写真の権限";
 
 /* No comment provided by engineer. */
-"Please confirm your country code and enter your phone number" = "Please confirm your country code and enter your phone number";
+"Please confirm your country code and enter your phone number" = "国番号を選択し電話番号を入力してください";
 
 /* No comment provided by engineer. */
-"Please confirm your country code and enter your phone number." = "Please confirm your country code and enter your phone number.";
+"Please confirm your country code and enter your phone number." = "国番号を選択し電話番号を入力してください。";
 
 /* No comment provided by engineer. */
 "Please enter a password to your account" = "あなたのアカウントのパスワードを入力してください";
@@ -629,7 +629,7 @@
 "Connection failed" = "接続に失敗しました";
 
 /* No comment provided by engineer. */
-"Connection failed because authentication is missing or invalid for %@@%@.\nYou can provide password again, or check your account configuration in the settings." = "Connection failed because authentication is missing or invalid for %1$@@%2$@.\nYou can provide password again, or check your account configuration in the settings.";
+"Connection failed because authentication is missing or invalid for %@@%@.\nYou can provide password again, or check your account configuration in the settings." = "%1$@@%2$@ の認証が無いか無効なため。接続に失敗しました。\n再度パスワードを入力するか、設定からアカウント構成を確認できます。";
 
 /* No comment provided by engineer. */
 "Connection failure" = "接続不良";
@@ -665,10 +665,10 @@
 "Save" = "保存";
 
 /* No comment provided by engineer. */
-"Security level decreased" = "Security level decreased";
+"Security level decreased" = "セキュリティレベルの低下";
 
 /* No comment provided by engineer. */
-"Security level decreased because of %@" = "Security level decreased because of %@";
+"Security level decreased because of %@" = "%@ のためセキュリティレベルが低下しました";
 
 /* No comment provided by engineer. */
 "Select all" = "すべてを選択";
@@ -719,19 +719,19 @@
 "Success" = "完了";
 
 /* No comment provided by engineer. */
-"Temporarily unavailable" = "Temporarily unavailable";
+"Temporarily unavailable" = "一時的に利用できません";
 
 /* No comment provided by engineer. */
-"The confirmation code is invalid. \nPlease check your SMS and try again." = "The confirmation code is invalid. \nSMSを確認し再度試してみてください";
+"The confirmation code is invalid. \nPlease check your SMS and try again." = "認証コードが無効です。\nSMSを確認し再度試してみてください";
 
 /* No comment provided by engineer. */
-"The confirmation code is invalid. \nPlease try again." = "The confirmation code is invalid. \n再度試してみてください";
+"The confirmation code is invalid. \nPlease try again." = "認証コードが無効です。\n再度試してみてください";
 
 /* No comment provided by engineer. */
 "There is no network connection available, enable WIFI or WWAN prior to configure an account" = "ネットワーク接続がありません。WIFIまたはモバイルネットワークが有効かどうかを確認してください。";
 
 /* No comment provided by engineer. */
-"There is no network connection available, enable WIFI or WWAN prior to configure an account." = "利用可能なネットワークがありません。 enable WIFI or WWAN prior to configure an account.";
+"There is no network connection available, enable WIFI or WWAN prior to configure an account." = "利用可能なネットワークがありません。WIFIまたはモバイルネットワークが有効かどうかを確認してください。";
 
 /* No comment provided by engineer. */
 "There is no network connection available, enable WIFI or WWAN prior to place a call" = "ネットワーク接続がありません。WIFIまたはモバイルネットワークが有効かどうかを確認してください。";
