@@ -38,7 +38,7 @@
 "<Please describe your problem or you will be ignored>" = "<Please describe your problem or you will be ignored>";
 
 /* No comment provided by engineer. */
-"\nCommunication security:\n\nTo raise the security level, you can check the following codes with your correspondent.\n\nSay:  %1$@\n\nYour correspondent must say:  %2$@" = "\nCommunication security:\nTo raise the security level, you can check the following codes with your correspondent.\n\nSay:  %1$@\n\nYour correspondent must say:  %2$@";
+"\nCommunication security:\n\nTo raise the security level, you can check the following codes with your correspondent.\n\nSay:  %1$@\n\nYour correspondent must say:  %2$@" = "\n会話のセキュリティ:\nTo raise the security level, you can check the following codes with your correspondent.\n\nSay:  %1$@\n\nYour correspondent must say:  %2$@";
 
 /* No comment provided by engineer. */
 "A new version of your app is available, use the button below to download it." = "このアプリの新しいバージョンが利用可能です。ボタンを押してダウンロードしてください。";
@@ -830,7 +830,7 @@
 "YESTERDAY" = "昨日";
 
 /* No comment provided by engineer. */
-"You already own an account." = "You already own an account.";
+"You already own an account." = "既にアカウントを取得しています。";
 
 /* No comment provided by engineer. */
 "You are no longer an admin of the chat room" = "あなたはチャットルームの管理者ではありません";
@@ -839,7 +839,7 @@
 "You are now an admin of the chat room" = "あなたは現在チャットルームの管理者です";
 
 /* No comment provided by engineer. */
-"You are trying to send a message using LIME to a contact not verified by ZRTP.\nPlease call this contact and verify his ZRTP key before sending your messages." = "You are trying to send a message using LIME to a contact not verified by ZRTP.\nPlease call this contact and verify his ZRTP key before sending your messages.";
+"You are trying to send a message using LIME to a contact not verified by ZRTP.\nPlease call this contact and verify his ZRTP key before sending your messages." = "ZRTPで認証されていない連絡先に、LIMEを使用してメッセージを送信しようとしています。\nメッセージを送信する前に、この連絡先に電話をかけて、相手のZRTPキーを確認してください。";
 
 /* No comment provided by engineer. */
 "You cancelled your account." = "You cancelled your account.";
@@ -863,7 +863,7 @@
 "You have received a message." = "メッセージを受信しました";
 
 /* No comment provided by engineer. */
-"You have received an encrypted message you are unable to decrypt from %@.\nYou need to call your correspondant in order to exchange your ZRTP keys if you want to decrypt the future messages you will receive." = "You have received an encrypted message you are unable to decrypt from %@.\nYou need to call your correspondant in order to exchange your ZRTP keys if you want to decrypt the future messages you will receive.";
+"You have received an encrypted message you are unable to decrypt from %@.\nYou need to call your correspondant in order to exchange your ZRTP keys if you want to decrypt the future messages you will receive." = "%@から復号化できない暗号化されたメッセージを受信しました。\n今後受信するメッセージを復号化したい場合は、ZRTPキーを交換するために通信相手に電話する必要があります。";
 
 /* No comment provided by engineer. */
 "You missed a call from %@" = "%@ からの呼び出しに応答できませんでした";
@@ -917,13 +917,13 @@
 "Your email is invalid" = "Eメールが無効です";
 
 /* No comment provided by engineer. */
-"Your email is malformed." = "Your email is malformed.";
+"Your email is malformed." = "Eメールが無適切な形式です。";
 
 /* No comment provided by engineer. */
-"Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well." = "Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well.";
+"Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well." = "アカウントと電話番号を紐付けることで、友だちがあなたをもっと簡単に見つけることができます。\n\nアドレス帳にLinphoneを使っている人が表示され、友だちもLinphoneで連絡が取れることを知ることができます。";
 
 /* No comment provided by engineer. */
-"Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well. \n\nYou can use your phone number with only one Linphone account. If you had already linked your number to an other account but you prefer to use this one, simply link it now and your number will automatically be moved to this account." = "Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well. \n\nYou can use your phone number with only one Linphone account. If you had already linked your number to an other account but you prefer to use this one, simply link it now and your number will automatically be moved to this account.";
+"Your friends will find your more easily if you link your account to your phone number. \n\nYou will see in your address book who is using Linphone and your friends will know that they can reach you on Linphone as well. \n\nYou can use your phone number with only one Linphone account. If you had already linked your number to an other account but you prefer to use this one, simply link it now and your number will automatically be moved to this account." = "アカウントと電話番号を紐付けることで、友だちがあなたをもっと簡単に見つけることができます。\n\nアドレス帳にLinphoneを使っている人が表示され、友だちもLinphoneで連絡が取れることを知ることができます。\n\n電話番号1つにつき1つのLinphoneアカウントのみでご利用いただけます。 すでに他のアカウントに電話番号を紐付けているものの、このアカウントを使用したい場合、今すぐ紐付けることで、電話番号は自動的にこのアカウントに移動します。";
 
 /* No comment provided by engineer. */
 "Your password contains invalid characters." = "パスワードに無効な文字が含まれています。";
